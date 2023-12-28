@@ -6,7 +6,7 @@ The BMI Calculator Android application allows users to calculate their Body Mass
 
 ## Features
 
-- **BMI Calculation:** Input weight (kg), height (m), age, and gender for BMI calculation.
+- **BMI Calculation:** Input weight (kg), height (cm), age, and gender for BMI calculation.
 - **Gender Selection:** Choose between male and female options for accurate BMI estimation.
 - **Intuitive Interface:** Clean and straightforward design for seamless user experience.
 
