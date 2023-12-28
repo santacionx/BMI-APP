@@ -1,0 +1,8 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <stroke
+        android:width="2dp"
+        android:color="#C2C2C2" /> <!-- Set border width and color to highlight errors -->
+    <corners android:radius="4dp" /> <!-- Set corner radius -->
+</shape>

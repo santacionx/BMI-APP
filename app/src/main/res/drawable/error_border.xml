@@ -1,0 +1,10 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+   <!-- Set the background color for highlighting, here it's red -->
+    <!-- Set border width -->
+    <!-- Set border color, same as background color for simplicity -->
+    <stroke
+        android:width="2dp"
+        android:color="#FF0000" />
+    <corners android:radius="4dp" /> <!-- Set corner radius -->
+</shape>
