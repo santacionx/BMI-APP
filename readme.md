@@ -11,7 +11,10 @@ The BMI Calculator Android application allows users to calculate their Body Mass
 - **Intuitive Interface:** Clean and straightforward design for seamless user experience.
 
 ## Screenshots
-: # (Include screenshots or a GIF demonstrating app usage.)
+![bmi app](images/3.png)
+![Fields are empty](images/1.png)
+![desired result](images/2.png)
+
 
 ## Installation
 
